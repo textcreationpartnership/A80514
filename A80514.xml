@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A copy of a petition, commended to the peace-making association in the west, by Colonell Blake, and Colonell Pyne, to be subscribed and presented by them to Sir Thomas Fairfax. Instead of a subscription, they returned this brief and moderate answer. Also a new oath now injoyned by ordinance of both houses, directly contrary to the oath of allegiance, and their own protestation, at the beginning of this Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80514</idno>
+            <idno type="STC">Wing C6186</idno>
+            <idno type="STC">Thomason E300_13</idno>
+            <idno type="STC">ESTC R200257</idno>
+            <idno type="EEBO-CITATION">99861063</idno>
+            <idno type="PROQUEST">99861063</idno>
+            <idno type="VID">113191</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80514)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113191)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 49:E300[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A copy of a petition, commended to the peace-making association in the west, by Colonell Blake, and Colonell Pyne, to be subscribed and presented by them to Sir Thomas Fairfax. Instead of a subscription, they returned this brief and moderate answer. Also a new oath now injoyned by ordinance of both houses, directly contrary to the oath of allegiance, and their own protestation, at the beginning of this Parliament.</title>
+                  <author>Pyne, Colonel.</author>
+                  <author>Blake, Colonel.</author>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Exeter. :</pubPlace>
+                  <date>Imprinted in the yeer, 1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "About 10th Septemb:".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Peace --  Early works to 1800.</term>
+               <term>Loyalty oaths --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="political_tract">
+            <gap reason="missing" extent="5+ pages">
+               <desc>〈5… pages missing〉</desc>
+            </gap>
+            <p>
+               <pb n="6" facs="tcp:113191:1"/>
+               <label>V.<hi>Anſw.</hi>
+               </label> No doubt but they will do what they can to keep out all ſuch as adhere to the one ſide, and we humbly beſeech them, that they endeavour like<g ref="char:EOLhyphen"/>wiſe to keep out them that adhere to the otherſide: there is no Heretique that will hazard his life for the truth, nor any out-landiſh Souldier will ſight principally for the good of <hi>England.</hi>
+            </p>
+            <p>
+               <label>VI. <hi>Anſw.</hi>
+               </label> We cannot by any means agree to this ſubmiſſion.
+<list>
+                  <item>1 For we are not by any ſound argument convinced in our conſciences that ſuch a ſubmiſſion may ſtand with our Allegiance to our Soveraign.</item>
+                  <item>2 By this ſubmiſſion we ſhall give His Majeſty juſt cauſe to reject our Petition, which we intend to preſent unto him, and ſhall image him, and his Army againſt us to our utter ruine.</item>
+                  <item>3 By this ſubmiſſion we ſhall give up our Liber<g ref="char:EOLhyphen"/>ties and Eſtates to an arbitrary Government, which is one of our greateſt grievances; We ſhall ſubmit our ſelves to the weekly pay, exciſe, twentieth part, and the fifth part of our Eſtates, all which are al<g ref="char:EOLhyphen"/>ready required by ordinance of Parliament; and if they require all the reſt, we are bound to yeeld it by this ſubmiſſion.</item>
+                  <item>4 By this ſubmiſſion we give up our under<g ref="char:EOLhyphen"/>ſtandings and conſciences too (poſſibly) to an er<g ref="char:EOLhyphen"/>ror, for it is poſſible that a Parliament may erre (and that foully) as well as a generall Councell, add yet what error ſoever this Parliament ſhall commit in Church or State (be it never ſo foule and horrid) we, by this Article muſt promiſe to ſubmit unto it.</item>
+               </list>
+            </p>
+            <p>
+               <pb n="7" facs="tcp:113191:1"/>
+               <label>VII. <hi>Anſw.</hi>
+               </label> If we go on ready and <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ce<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tly accord<g ref="char:EOLhyphen"/>ing to our Articles for making of Peace, there are none but Enemies to Peace, ſelf-ſeckers, and Plun<g ref="char:EOLhyphen"/>derers will oppoſe us, and againſt ſuch we are confi<g ref="char:EOLhyphen"/>dent, all honeſt men in either Army will aſſiſt us, if not, we hope God will enable us to defend our ſelves, and give us liberty to move according to our own directions.</p>
+            <p>
+               <label>VIII. <hi>Anſw.</hi>
+               </label> As we were thankfull unto Sir <hi>Richard Grenvile</hi> for the good government of his Army, ſo are we no leſſe thankfull to Sir <hi>Thomas Fairfax</hi> for his good government, and we will continue <note place="margin">
+                  <hi>Colonell</hi> Wel<g ref="char:EOLhyphen"/>den, <hi>and Colonell</hi> Van<g ref="char:EOLhyphen"/>droſſe.</note> our thanks, as moſt due to him, if he continue his good government, and do not, after a ſtrict diſci<g ref="char:EOLhyphen"/>pline for a while, let loofe his Army to plunder, as ſome have done before him.</p>
+            <closer>
+               <signed>By the Peace-making Army in the Weſt of <hi>Sommerſet</hi> and <hi>Devon,</hi> who have refuſed faires Propoſitions from the other ſide; and are reſolved to ſtand to their firſt articles for Peace, and to aſſiſt one another in the proſecution of them.</signed>
+            </closer>
+         </div>
+         <div type="petition">
+            <pb n="8" facs="tcp:113191:2"/>
+            <head>To the Kings moſt Excellent Majeſty.</head>
+            <head type="sub">The humble Petition of your Ma<g ref="char:EOLhyphen"/>jeſties moſt loyall Subjects of the County of <hi>Sommerſet.</hi>
+            </head>
+            <opener>Moſt humbly ſheweth,</opener>
+            <p>THat for the ſpace of theſe three yeers laſt paſt, we have miſerably ſuffered under the Calamities of Civill Warre; and the Miſeries Greaten ſo extreamly up<g ref="char:EOLhyphen"/>on us, that without a ſpeedy Accommoda<g ref="char:EOLhyphen"/>tion we can expect nothing but utter ruine and deſolation; In a deep ſenſe whereof, being large ſharers in the miſeries, we do in the anguiſh of our ſouls, moſt humbly beg your Majeſty once more, according to your former Princely compaſſion to your People, to invite the Lords and Commons aſſembled at <hi>Weſtminſter,</hi> to the compoſures
+<pb n="9" facs="tcp:113191:2"/>
+of theſe unhappy differences by a Treaty; for which purpoſe we alſo intend to petition the Lords and Commons, hoping, by Gods bleſſing upon your Majeſties pious endea<g ref="char:EOLhyphen"/>vours herein, we may again enjoy a happy Peace; For which, together with the pre<g ref="char:EOLhyphen"/>ſervation of your Sacred Perſon, we ſhall heartily pray, &amp;c.</p>
+         </div>
+         <div type="petition">
+            <pb n="10" facs="tcp:113191:3"/>
+            <head>To the right Honourable the Lords and Commons aſſem<g ref="char:EOLhyphen"/>bled in Parliament.</head>
+            <head type="sub">The humble Petition of the poor, miſerable, and waſted People of the County of <hi>Sommerſet.</hi>
+            </head>
+            <opener>Humbly ſheweth,</opener>
+            <p>THat we have a long time groaned un<g ref="char:EOLhyphen"/>der the burthen of a Civill Sword, which hath brought this Countrey to ex<g ref="char:EOLhyphen"/>tream miſery, and threatneth both it and the whole Nation with ſpeedy ruine and deſtruction, it being the unavoidable Fate of a divided Kingdom: for the prevention whereof we humbly pray you to be pleaſed to be Suitors to His Majeſty, that the late Treaty, ſo hopefully begun, may be renew<g ref="char:EOLhyphen"/>ed: And in purſuance of that great truſt re<g ref="char:EOLhyphen"/>poſed
+<pb n="11" facs="tcp:113191:3"/>
+in you, you will vouchſafe your ut<g ref="char:EOLhyphen"/>moſt <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ndeavour for a ſettlement of a happy Peace, that we may enjoy our Religion, our Laws, and Liberties; And we ſhall, &amp;c.</p>
+         </div>
+         <div type="list_of_army_concerns">
+            <pb n="12" facs="tcp:113191:4"/>
+            <list>
+               <head>
+                  <hi>The particulars which the</hi> Peace-making Armie <hi>ſtands for in the Eaſt; and thus farre we in the Weſt are with them.</hi>
+               </head>
+               <item>1 IMprimis, We ſtand for the true Proteſtant Religion as it was ob<g ref="char:EOLhyphen"/>ſerved and uſed in Queen <hi>Elizabeths</hi> time.</item>
+               <item>2 We are for to defend and main<g ref="char:EOLhyphen"/>tain the King, and all the Preroga<g ref="char:EOLhyphen"/>tives belonging to the Crown of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+               </item>
+               <item>3 We are for all the Priviledges of Parliament, with earneſt deſire to ſee the Kings Majeſty and the Par<g ref="char:EOLhyphen"/>liament united, as in former time.</item>
+               <item>
+                  <pb n="13" facs="tcp:113191:4"/>
+4 We are for the Laws of the Realm, and liberties of the Subject.</item>
+               <item>5 To keep our Houſes from burn<g ref="char:EOLhyphen"/>ing, our Goods from plundering, and to take up all ſtragling and abuſive Souldiers, of either ſide, and to give them the Law they deſerve.</item>
+            </list>
+            <p>Be it ordered by the Lords and Commons in Parliament Aſſembled, that all and every per<g ref="char:EOLhyphen"/>ſon of what degree and quality ſoever, that hath lived, or ſhall live within the Kings Quarters, or been aiding, aſſiſting, or adhering unto the Forces raiſed againſt the Parliament, or hath, or ſhall come to inhabite, or reſide under the power or protection of the Parliament, ſhall Swear upon the Evangeliſts in manner following.</p>
+            <p>
+               <q>I A. B. Do Swear from my Hart, that I will not directly nor indirectly adhere unto, or willingly aſſiſt the King in this War, or in this Cauſe againſt
+<pb n="14" facs="tcp:113191:5"/>
+the Parliament, or any Forces raiſed without the conſent of the two Houſes of Parliament, in this cauſe or warre. And I do likewiſe ſwear, That my coming, and ſubmitting my ſelf under the pow<g ref="char:EOLhyphen"/>er and protection of the Parliament, is without any manner of deſigne whatſoever, to the prejudice of the proceedings of the two Houſes of this pre<g ref="char:EOLhyphen"/>ſent Parliament, and without the direction, privity, or advice of the King, or any of his Councell, or Of<g ref="char:EOLhyphen"/>ficers, other then what I have now made known; So help me God, and the Contents of this Book.</q>
+            </p>
+            <p>ANd now let <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny reaſonable and i<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ent <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an but compare this Oath now enjoyned by the two Houſes, either with the Oath of Allegiance in<g ref="char:EOLhyphen"/>joyn'd by Law, and taken by every one of the Members of both Houſes reſpectively before they were admitted to ſit as Members, or with that firſt Proteſtation made and taken by themſelves, and by them Ordered to be taken by all the Subjects of this Kingdom, &amp; then let him judge whether theſe deſperate men, having ſo often forſworn them<g ref="char:EOLhyphen"/>ſelves, have not by this, and other Oaths and Co<g ref="char:EOLhyphen"/>venants deviſed and impoſed by them ſince, endea<g ref="char:EOLhyphen"/>voured to involve as many others as they can in the ſame crime of Perjury; which, together with Re<g ref="char:EOLhyphen"/>bellion, is already the Great Burthen, and crying ſinne of this Nation.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:113191:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
